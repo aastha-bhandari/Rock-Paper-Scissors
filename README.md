@@ -1,4 +1,4 @@
-# rock-paper-scissors game
+# Rock-Paper-Scissors Game
 a simple beginner project of rock paper scissors game made using python library Tkinter
 
 # Technologies Used -
